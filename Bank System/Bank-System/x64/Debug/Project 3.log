@@ -1,0 +1,84 @@
+﻿  Project 3.cpp
+D:\Programming Advices Courses\مرحلة التأسيس الأولى\Course 11 OOP Level 2 Application\3-Project 3\Project 3\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%203.cpp')
+  
+D:\Programming Advices Courses\مرحلة التأسيس الأولى\Course 11 OOP Level 2 Application\3-Project 3\Project 3\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%203.cpp')
+  
+D:\Programming Advices Courses\مرحلة التأسيس الأولى\Course 11 OOP Level 2 Application\3-Project 3\Project 3\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%203.cpp')
+  
+D:\Programming Advices Courses\مرحلة التأسيس الأولى\Course 11 OOP Level 2 Application\3-Project 3\Project 3\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%203.cpp')
+  
+D:\Programming Advices Courses\مرحلة التأسيس الأولى\Course 11 OOP Level 2 Application\3-Project 3\Project 3\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%203.cpp')
+  
+D:\Programming Advices Courses\مرحلة التأسيس الأولى\Course 11 OOP Level 2 Application\3-Project 3\Project 3\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%203.cpp')
+  
+D:\Programming Advices Courses\مرحلة التأسيس الأولى\Course 11 OOP Level 2 Application\3-Project 3\Project 3\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Project%203.cpp')
+  
+D:\Programming Advices Courses\مرحلة التأسيس الأولى\Course 11 OOP Level 2 Application\3-Project 3\Project 3\clsUser.h(202,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Project%203.cpp')
+      D:\Programming Advices Courses\مرحلة التأسيس الأولى\Course 11 OOP Level 2 Application\3-Project 3\Project 3\clsUser.h(26,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+D:\Programming Advices Courses\مرحلة التأسيس الأولى\Course 11 OOP Level 2 Application\3-Project 3\Project 3\clsInputValidate.h(115,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203.cpp')
+  
+D:\Programming Advices Courses\مرحلة التأسيس الأولى\Course 11 OOP Level 2 Application\3-Project 3\Project 3\clsInputValidate.h(119,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203.cpp')
+  
+D:\Programming Advices Courses\مرحلة التأسيس الأولى\Course 11 OOP Level 2 Application\3-Project 3\Project 3\clsBankClient.h(208,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Project%203.cpp')
+      D:\Programming Advices Courses\مرحلة التأسيس الأولى\Course 11 OOP Level 2 Application\3-Project 3\Project 3\clsBankClient.h(154,12):
+      see declaration of 'clsBankClient::stTrnsferLogRecord'
+  
+D:\Programming Advices Courses\مرحلة التأسيس الأولى\Course 11 OOP Level 2 Application\3-Project 3\Project 3\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203.cpp')
+  
+D:\Programming Advices Courses\مرحلة التأسيس الأولى\Course 11 OOP Level 2 Application\3-Project 3\Project 3\clsBankClient.h(164,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203.cpp')
+  
+D:\Programming Advices Courses\مرحلة التأسيس الأولى\Course 11 OOP Level 2 Application\3-Project 3\Project 3\clsBankClient.h(165,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203.cpp')
+  
+D:\Programming Advices Courses\مرحلة التأسيس الأولى\Course 11 OOP Level 2 Application\3-Project 3\Project 3\clsBankClient.h(166,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203.cpp')
+  
+D:\Programming Advices Courses\مرحلة التأسيس الأولى\Course 11 OOP Level 2 Application\3-Project 3\Project 3\clsBankClient.h(424,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203.cpp')
+  
+D:\Programming Advices Courses\مرحلة التأسيس الأولى\Course 11 OOP Level 2 Application\3-Project 3\Project 3\clsBankClient.h(437,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203.cpp')
+  
+D:\Programming Advices Courses\مرحلة التأسيس الأولى\Course 11 OOP Level 2 Application\3-Project 3\Project 3\clsAddNewClientScreen.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203.cpp')
+  
+D:\Programming Advices Courses\مرحلة التأسيس الأولى\Course 11 OOP Level 2 Application\3-Project 3\Project 3\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203.cpp')
+  
+D:\Programming Advices Courses\مرحلة التأسيس الأولى\Course 11 OOP Level 2 Application\3-Project 3\Project 3\clsTotalBalancesScreen.h(58,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Project%203.cpp')
+  
+D:\Programming Advices Courses\مرحلة التأسيس الأولى\Course 11 OOP Level 2 Application\3-Project 3\Project 3\clsTransferScreen.h(42,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203.cpp')
+  
+D:\Programming Advices Courses\مرحلة التأسيس الأولى\Course 11 OOP Level 2 Application\3-Project 3\Project 3\clsTransferScreen.h(47,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203.cpp')
+  
+D:\Programming Advices Courses\مرحلة التأسيس الأولى\Course 11 OOP Level 2 Application\3-Project 3\Project 3\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203.cpp')
+  
+D:\Programming Advices Courses\مرحلة التأسيس الأولى\Course 11 OOP Level 2 Application\3-Project 3\Project 3\clsUpdateCurrencyRateScreen.h(17,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203.cpp')
+  
+D:\Programming Advices Courses\مرحلة التأسيس الأولى\Course 11 OOP Level 2 Application\3-Project 3\Project 3\clsCurrencyCalculatorScreen.h(17,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203.cpp')
+  
+D:\Programming Advices Courses\مرحلة التأسيس الأولى\Course 11 OOP Level 2 Application\3-Project 3\Project 3\clsBankClient.h(379,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+D:\Programming Advices Courses\مرحلة التأسيس الأولى\Course 11 OOP Level 2 Application\3-Project 3\Project 3\clsBankClient.h(441,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+D:\Programming Advices Courses\مرحلة التأسيس الأولى\Course 11 OOP Level 2 Application\3-Project 3\Project 3\clsUser.h(364,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Project 3.vcxproj -> D:\Programming Advices Courses\مرحلة التأسيس الأولى\Course 11 OOP Level 2 Application\3-Project 3\x64\Debug\Project 3.exe
